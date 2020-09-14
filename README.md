@@ -11,3 +11,4 @@ Feel free to enjoy this journey if you like but at your
 own risk. 
 
 
+[Chapter-1 :: Point's Shopping](chapter-1)
