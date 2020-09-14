@@ -37,7 +37,7 @@ items he needs to buy, he mostly thinks and talks Python.
 
 print("It's a good sunny day! Let's visit market")
 
-items_to_buy = ["milk', "bread", "cheese", "almonds", "bananas"]
+items_to_buy = ["milk", "bread", "cheese", "almonds", "bananas"]
 money = 200 
 print("All set to go to the market")
 cart = [] 
