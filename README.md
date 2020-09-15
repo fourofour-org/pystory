@@ -12,3 +12,5 @@ own risk.
 
 
 [Chapter-1 :: Point's Shopping](chapter-1)
+
+[Chapter-2 :: Get Organised](chapter-2)
