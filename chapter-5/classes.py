@@ -26,3 +26,7 @@ class Man(Human):
 
     def speak(self):
         print("Hey there! I'm a human")
+
+if __name__=='__main__':
+    man = Man()
+    man.speak()
